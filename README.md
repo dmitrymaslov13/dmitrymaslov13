@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dmitriqm
 - 👀 I’m interested in web-development and software architecture
-- 🌱  I have been working as a front-end developer since September 2022.
+- 🌱  I have been working as a front-end developer since June 2022.
