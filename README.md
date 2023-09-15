@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @dmitriqm
+- 👋 Hi, I’m Dmitry Maslov
 - 👀 I’m interested in web-development and software architecture
 - 🌱  I have been working as a front-end developer since June 2022.
