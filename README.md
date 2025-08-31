@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Dmitry Maslov!
-- 🖼️ I work as a Frontend Engineer at [UDV Group](https://udv.group/).
-- 👀 I’m interested in Frontendб, Linux, DevOps and infrastructure.
+- 👀 I'm interested in Linux, DevOps, and infrastructure, but ironically, I'm a Frontend Engineer at [UDV Group](https://udv.group/).
